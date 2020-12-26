@@ -1,0 +1,19 @@
+{
+  "name": "duzq-quick-mongo",
+  "version": "1.1.0",
+  "description": "nodejs+mongodb+express API快速生成",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dzq/quick-mongo.git"
+  },
+  "author": "dzq",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dzq/quick-mongo/issues"
+  },
+  "homepage": "https://github.com/dzq/quick-mongo#readme"
+}
